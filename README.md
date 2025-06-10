@@ -47,10 +47,6 @@ The `agents/` system contains:
 
 Each agent has a `.run()` or `.invoke()` method and can be wired into a CLI, dashboard, or orchestrator.
 
-For full design docs, see:
-
-- [`agent_architecture.md`](agent_architecture.md)
-- [`how_to_use.md`](how_to_use.md)
 
 ---
 
